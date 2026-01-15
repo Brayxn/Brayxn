@@ -48,17 +48,6 @@ I enjoy working across the entire stack, from clean and modern interfaces to sol
   <img src="https://skillicons.dev/icons?i=mysql,supabase,git,docker,vercel" />
 </p>
 
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayxn&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayxn&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<hr/>
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
