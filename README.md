@@ -13,68 +13,74 @@
   </a>
 </p>
 
----
+<hr/>
 
-## 🧠 About Me
+<h2>🧠 About Me</h2>
 
-🚀 Full Stack Developer focused on building scalable web applications and SaaS platforms.  
+<p>
+🚀 Full Stack Developer focused on building scalable web applications and SaaS platforms.<br/>
 I enjoy working across the entire stack, from clean and modern interfaces to solid backend architectures and databases.
+</p>
 
-- 💻 Full Stack Developer
-- 🎓 Systems Engineering 
-- ⚙️ SaaS & Web Applications
-- 🌱 Always learning and improving
+<ul>
+  <li>💻 Full Stack Developer</li>
+  <li>🎓 Systems Engineering</li>
+  <li>⚙️ SaaS & Web Applications</li>
+  <li>🌱 Always learning and improving</li>
+</ul>
 
----
+<hr/>
 
-## 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-### Frontend
+<h3>Frontend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,js,tailwind" />
 </p>
 
-### Backend
+<h3>Backend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
 </p>
 
-### Databases & Tools
+<h3>Databases & Tools</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,supabase,git,docker,vercel" />
 </p>
 
----
+<hr/>
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brayxn&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayxn&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Brayxn&theme=dark" alt="GitHub Streak" /></a>
+<hr/>
 
----
-
-## 🔥 GitHub Streak
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Brayxn&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<hr/>
 
-## 📈 Activity Graph
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brayxn&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<hr/>
 
-## 📫 Contact
+<h2>📫 Contact</h2>
 
-- 💼 LinkedIn:https://www.linkedin.com/in/brayan-osorio-cifuentes
-- 📧 Email:brayanstivenosoriocifuentes5@gmail.com
-- 🌐 Portfolio:https://brayanosorio-portafolio.vercel.app)
+<ul>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/brayan-osorio-cifuentes/">linkedin.com/in/brayan-osorio-cifuentes</a></li>
+  <li>📧 Email: brayanstivenosoriocifuentes5@gmail.com</li>
+  <li>🌐 Portfolio: <a href="https://brayanosorio-portafolio.vercel.app">brayanosorio-portafolio.vercel.app</a></li>
+</ul>
 
----
-
-⭐ If you like my work, consider starring my repositories!
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
