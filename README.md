@@ -8,7 +8,7 @@
   <a href="mailto:brayanstivenosoriocifuentes5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://brayanosorio-portafolio.vercel.app" target="_blank">
+  <a href="https://mi-portafolio-brayan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
