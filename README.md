@@ -69,7 +69,7 @@ I enjoy working across the entire stack, from clean and modern interfaces to sol
 <ul>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/brayan-osorio-cifuentes/">linkedin.com/in/brayan-osorio-cifuentes</a></li>
   <li>📧 Email: brayanstivenosoriocifuentes5@gmail.com</li>
-  <li>🌐 Portfolio: <a href="https://brayanosorio">https://mi-portafolio-brayan.vercel.app/</a></li>
+  <li>🌐 Portfolio: <a href="https://mi-portafolio-brayan.vercel.app/">https://mi-portafolio-brayan.vercel.app/</a></li>
 </ul>
 
 <p align="center">⭐ If you like my work, consider starring my repositories!</p>
